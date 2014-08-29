@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+
+    <!-- USERS -->
+    <users id="u1" name="John Doe" password="password1" email="john.doe@local.com" />
+    <users id="u2" name="John Doe" password="password2" email="john.doe2@local.com" />
+    <users id="u4" name="Temporary" password="password" email="temporary@local.com" />
+
+</dataset>
